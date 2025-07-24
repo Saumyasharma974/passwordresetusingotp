@@ -110,5 +110,5 @@ Built with ❤️ by **\[Saumya sharma]**
 
 ---
 
-Let me know if you want this exported as a downloadable file or want a short version for a portfolio project showcase.
+
 ```
