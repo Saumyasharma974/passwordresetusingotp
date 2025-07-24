@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# dotenv file
+.env
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output (optional, if you're building frontend or bundling)
+dist/
+build/
+
+# Coverage reports (if using Jest or any test tool)
+coverage/
+
+# VS Code settings
+.vscode/
+
+# Optional: Database files (if using local db or SQLite etc.)
+*.sqlite
+*.sqlite-journal
+
+# IDE settings
+.idea/
+
+# Optional: uploads or temp files
+uploads/
+temp/
